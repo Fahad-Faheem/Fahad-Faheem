@@ -36,7 +36,7 @@ I build things that work, scale, and are powerful enough to matter
 
 - <a href="https://fahadfaheem.com/work/business-management-platform" style="color:#3fb950"><b>Business Management Platform</b></a> — Multi-tenant SaaS for CRM/ERP with granular RBAC/ABAC and cross-business collaboration.
 - <a href="https://fahadfaheem.com/work/ai-assistant-platform" style="color:#3fb950"><b>AI Assistant Platform</b></a> — Embeddable AI assistants with RAG, Qdrant vector search, and dynamic tool calling.
-- <a href="https://fahadfaheem.com/work/property-kiosk" style="color:#3fb950"><b>Crito iKiosk</b></a> — Self-service hotel kiosk for Crito in Germany with check-in flows and Apaleo PMS integration.
+- <a href="https://fahadfaheem.com/work/crito-ikiosk" style="color:#3fb950"><b>Crito iKiosk</b></a> — Self-service hotel kiosk for Crito in Germany that encodes and dispenses guest key cards at check-in.
 - <a href="https://fahadfaheem.com/work/cleffen-ai" style="color:#3fb950"><b>Cleffen AI</b></a> — Custom chatbot built specifically for Cleffen to serve their clients, with product retrieval and booking capabilities.
 - <a href="https://fahadfaheem.com/work/headless-commerce-platform" style="color:#3fb950"><b>Headless Commerce Platform</b></a> — Cloud-native headless e-commerce platform with integrated API keys for custom storefronts.
 - <a href="https://fahadfaheem.com/work/trucks-tracking-system" style="color:#3fb950"><b>Trucks Tracking System</b></a> — Live truck location tracking with fleet visibility, route monitoring, and dispatch-ready status updates.
