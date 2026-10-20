@@ -34,15 +34,15 @@ I build things that work, scale, and are powerful enough to matter
 
 ## Projects
 
-- <a href="https://fahadfaheem.com/work/business-management-platform" style="color:#3fb950"><b>Business Management Platform</b></a> — One place for sales, billing, and day to day ops that stay clear and under control.
-- <a href="https://fahadfaheem.com/work/cuedra-ai" style="color:#3fb950"><b>Cuedra AI</b></a> — Company owned assistants that answer from real work and finish the task for customers.
-- <a href="https://fahadfaheem.com/work/crito-pms" style="color:#3fb950"><b>Crito PMS</b></a> — Hotels run inventory, rates, and stays from one calm system of record every day.
-- <a href="https://fahadfaheem.com/work/crito-smart-system" style="color:#3fb950"><b>Crito Smart System</b></a> — Front desk, rooms, and door access move together through every guest stay.
-- <a href="https://fahadfaheem.com/work/crito-ai" style="color:#3fb950"><b>Crito AI</b></a> — Phone calls that book, confirm, and handle real hotel work while someone is still on the line.
-- <a href="https://fahadfaheem.com/work/crito-ikiosk" style="color:#3fb950"><b>Crito iKiosk</b></a> — Guests finish arrival on their own when the front desk is already stacked.
-- <a href="https://fahadfaheem.com/work/cleffen-ai" style="color:#3fb950"><b>Cleffen AI</b></a> — Cleffen talks to clients in its own voice without slowing the rest of the team down.
-- <a href="https://fahadfaheem.com/work/headless-commerce-platform" style="color:#3fb950"><b>Headless Commerce Platform</b></a> — Selling, orders, and teams grow in one shared store without the usual mess.
-- <a href="https://fahadfaheem.com/work/trucks-tracking-system" style="color:#3fb950"><b>Trucks Tracking System</b></a> — Dispatchers keep the LPG fleet moving with the road always in clear view.
+- <a href="https://fahadfaheem.com/work/business-management-platform" style="color:#3fb950"><b>Business Management Platform</b></a> — Sales, billing, and ops in one workspace so teams stop juggling scattered tools.
+- <a href="https://fahadfaheem.com/work/cuedra-ai" style="color:#3fb950"><b>Cuedra AI</b></a> — Assistants trained on company work that answer customers and complete the job.
+- <a href="https://fahadfaheem.com/work/crito-pms" style="color:#3fb950"><b>Crito PMS</b></a> — Hotels manage inventory, rates, and stays in one system instead of split tools.
+- <a href="https://fahadfaheem.com/work/crito-smart-system" style="color:#3fb950"><b>Crito Smart System</b></a> — Front desk, rooms, and locks stay in sync from check in through check out.
+- <a href="https://fahadfaheem.com/work/crito-ai" style="color:#3fb950"><b>Crito AI</b></a> — On a live hotel call it books meetings, sends links, and finishes the work.
+- <a href="https://fahadfaheem.com/work/crito-ikiosk" style="color:#3fb950"><b>Crito iKiosk</b></a> — Guests check in themselves when the lobby is busy and staff are tied up.
+- <a href="https://fahadfaheem.com/work/cleffen-ai" style="color:#3fb950"><b>Cleffen AI</b></a> — Cleffen answers clients in its own voice so the team can stay on delivery.
+- <a href="https://fahadfaheem.com/work/headless-commerce-platform" style="color:#3fb950"><b>Headless Commerce Platform</b></a> — Catalog, orders, and team access grow together in one shared commerce system.
+- <a href="https://fahadfaheem.com/work/trucks-tracking-system" style="color:#3fb950"><b>Trucks Tracking System</b></a> — Live fleet view so dispatchers keep LPG trucks and trips moving all day.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2744&height=160&section=footer" />
